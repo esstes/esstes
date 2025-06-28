@@ -17,10 +17,10 @@
 </p>
 <!-- Center-aligned underlined link -->
 <p align="center">
-  <a href="rentry.co/stvcky" style="text-decoration: underline;">rentry</a>
+  <a href="https://rentry.co/stvcky" style="text-decoration: underline;">rentry</a>
 </p>
 
 <!-- Right-aligned underlined link -->
 <p align="right">
-  <a href="esstes.atabook.org" style="text-decoration: underline;">Atabook</a>
+  <a href="https://esstes.atabook.org" style="text-decoration: underline;">Atabook</a>
 </p>
