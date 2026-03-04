@@ -17,7 +17,7 @@
 </p>
 <!-- Center-aligned underlined link -->
 <p align="center">
-  <a href="https://rentry.co/stvcky" style="text-decoration: underline;">rentry</a>
+  <a href="https://rentry.co/magnusl" style="text-decoration: underline;">rentry</a>
 </p>
 
 <!-- Right-aligned underlined link -->
