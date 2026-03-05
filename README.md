@@ -1,15 +1,18 @@
 <p align="center">
-  <sub>"your bucky."</sub>
+  <sub>"my moon, my man."</sub>
 </p>
 <p align="center">
-  <img src="https://i.pinimg.com/originals/85/eb/69/85eb699203fdd109b784a197d013b7c2.gif" alt="funny gif" />
+  <img src="https://files.catbox.moe/mpkwuw.png" width="600" alt="" />
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=esstes&label=stalkers&color=000000&style=flat" alt="esstes" /> </p>
 
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/01/7f/ee/017fee4823ea31377f2c48087d63335d.gif" width="250" alt="funny gif" />
+  <img src="https://files.catbox.moe/l70cit.gif" width="100" alt="funny gif" />
+</p>
+<p align="center">
+  <img src="https://files.catbox.moe/sqlfsm.png" width="650" alt="funny gif" />
 </p>
 <p align="center">━━━━━━ ✦ ━━━━━━</p>
 <p align="left">
