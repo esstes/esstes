@@ -5,7 +5,7 @@
   <img src="https://i.pinimg.com/originals/85/eb/69/85eb699203fdd109b784a197d013b7c2.gif" alt="funny gif" />
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=esstes&label=Profile%20views&color=0e75b6&style=flat" alt="esstes" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=esstes&label=stalkers&color=000000&style=flat" alt="esstes" /> </p>
 
 
 <p align="center">
