@@ -5,7 +5,8 @@
   <img src="https://files.catbox.moe/mpkwuw.png" width="600" alt="" />
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=esstes&label=stalkers&color=000000&style=flat" alt="esstes" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=esstes&label=lesbians&color=612826&style=flat-square" />
+</p>
 
 
 <p align="center">
